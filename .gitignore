@@ -1,0 +1,35 @@
+# Python virtuelle Umgebung
+.venv/
+venv/
+ENV/
+bin/
+lib/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Dateien
+.DS_Store
+Thumbs.db# Python virtuelle Umgebung
+.venv/
+venv/
+ENV/
+bin/
+lib/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Dateien
+.DS_Store
+Thumbs.db
