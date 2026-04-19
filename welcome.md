@@ -1,4 +1,4 @@
-# Willkommen zum Kurs
+# Willkommen im Textmining
 
 Klicke auf den Button unten, um deine Arbeitsumgebung direkt im Browser zu starten:
 
